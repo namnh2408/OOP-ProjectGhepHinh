@@ -1,0 +1,59 @@
+D:\Đồ án OOP\bin\Debug\Đồ án OOP.exe.config
+D:\Đồ án OOP\bin\Debug\Đồ án OOP.exe
+D:\Đồ án OOP\bin\Debug\Đồ án OOP.pdb
+D:\Đồ án OOP\obj\Debug\Đồ án OOP.csprojAssemblyReference.cache
+D:\Đồ án OOP\obj\Debug\Đồ_án_OOP.Form1.resources
+D:\Đồ án OOP\obj\Debug\Đồ_án_OOP.Properties.Resources.resources
+D:\Đồ án OOP\obj\Debug\Đồ án OOP.csproj.GenerateResource.cache
+D:\Đồ án OOP\obj\Debug\Đồ án OOP.csproj.CoreCompileInputs.cache
+D:\Đồ án OOP\obj\Debug\Đồ án OOP.exe
+D:\Đồ án OOP\obj\Debug\Đồ án OOP.pdb
+D:\Đồ án OOP\obj\Debug\Đồ_án_OOP.Form2.resources
+E:\Windows Form\SOURCE\Đồ án OOP\bin\Debug\Đồ án OOP.exe.config
+E:\Windows Form\SOURCE\Đồ án OOP\bin\Debug\Đồ án OOP.exe
+E:\Windows Form\SOURCE\Đồ án OOP\bin\Debug\Đồ án OOP.pdb
+E:\Windows Form\SOURCE\Đồ án OOP\obj\Debug\Đồ án OOP.csprojAssemblyReference.cache
+E:\Windows Form\SOURCE\Đồ án OOP\obj\Debug\Đồ_án_OOP.Form1.resources
+E:\Windows Form\SOURCE\Đồ án OOP\obj\Debug\Đồ_án_OOP.Form2.resources
+E:\Windows Form\SOURCE\Đồ án OOP\obj\Debug\Đồ_án_OOP.Properties.Resources.resources
+E:\Windows Form\SOURCE\Đồ án OOP\obj\Debug\Đồ án OOP.csproj.GenerateResource.cache
+E:\Windows Form\SOURCE\Đồ án OOP\obj\Debug\Đồ án OOP.exe
+E:\Windows Form\SOURCE\Đồ án OOP\obj\Debug\Đồ án OOP.pdb
+C:\Users\Windows 10\Downloads\Đồ án OOP\bin\Debug\Đồ án OOP.exe.config
+C:\Users\Windows 10\Downloads\Đồ án OOP\bin\Debug\Đồ án OOP.exe
+C:\Users\Windows 10\Downloads\Đồ án OOP\bin\Debug\Đồ án OOP.pdb
+C:\Users\Windows 10\Downloads\Đồ án OOP\obj\Debug\Đồ án OOP.csprojAssemblyReference.cache
+C:\Users\Windows 10\Downloads\Đồ án OOP\obj\Debug\Đồ_án_OOP.Form1.resources
+C:\Users\Windows 10\Downloads\Đồ án OOP\obj\Debug\Đồ_án_OOP.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\Đồ án OOP\obj\Debug\Đồ án OOP.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\Đồ án OOP\obj\Debug\Đồ án OOP.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\Đồ án OOP\obj\Debug\Đồ án OOP.exe
+C:\Users\Windows 10\Downloads\Đồ án OOP\obj\Debug\Đồ án OOP.pdb
+C:\Users\Windows 10\Downloads\Đồ án OOP\obj\Debug\Đồ_án_OOP.StartGame.resources
+C:\Users\Windows 10\Downloads\Đồ án OOP\obj\Debug\Đồ_án_OOP.FormTime.resources
+C:\Users\Windows 10\Downloads\Đồ án OOP\obj\Debug\Đồ_án_OOP.Form2.resources
+E:\Windows Form\Đồ án OOP\bin\Debug\Đồ án OOP.exe.config
+E:\Windows Form\Đồ án OOP\bin\Debug\Đồ án OOP.exe
+E:\Windows Form\Đồ án OOP\bin\Debug\Đồ án OOP.pdb
+E:\Windows Form\Đồ án OOP\obj\Debug\Đồ án OOP.csprojAssemblyReference.cache
+E:\Windows Form\Đồ án OOP\obj\Debug\Đồ_án_OOP.Form1.resources
+E:\Windows Form\Đồ án OOP\obj\Debug\Đồ_án_OOP.Form2.resources
+E:\Windows Form\Đồ án OOP\obj\Debug\Đồ_án_OOP.FormTime.resources
+E:\Windows Form\Đồ án OOP\obj\Debug\Đồ_án_OOP.StartGame.resources
+E:\Windows Form\Đồ án OOP\obj\Debug\Đồ_án_OOP.Properties.Resources.resources
+E:\Windows Form\Đồ án OOP\obj\Debug\Đồ án OOP.csproj.GenerateResource.cache
+E:\Windows Form\Đồ án OOP\obj\Debug\Đồ án OOP.exe
+E:\Windows Form\Đồ án OOP\obj\Debug\Đồ án OOP.pdb
+F:\SPKT-HCMUTE\HKI_2019\Lập trình hướng đối tượng\ĐỒ ÁN GAME GHÉP HÌNH\Đồ án OOP\bin\Debug\Đồ án OOP.exe.config
+F:\SPKT-HCMUTE\HKI_2019\Lập trình hướng đối tượng\ĐỒ ÁN GAME GHÉP HÌNH\Đồ án OOP\bin\Debug\Đồ án OOP.exe
+F:\SPKT-HCMUTE\HKI_2019\Lập trình hướng đối tượng\ĐỒ ÁN GAME GHÉP HÌNH\Đồ án OOP\bin\Debug\Đồ án OOP.pdb
+F:\SPKT-HCMUTE\HKI_2019\Lập trình hướng đối tượng\ĐỒ ÁN GAME GHÉP HÌNH\Đồ án OOP\obj\Debug\Đồ án OOP.csproj.AssemblyReference.cache
+F:\SPKT-HCMUTE\HKI_2019\Lập trình hướng đối tượng\ĐỒ ÁN GAME GHÉP HÌNH\Đồ án OOP\obj\Debug\Đồ_án_OOP.fmGame1.resources
+F:\SPKT-HCMUTE\HKI_2019\Lập trình hướng đối tượng\ĐỒ ÁN GAME GHÉP HÌNH\Đồ án OOP\obj\Debug\Đồ_án_OOP.fmGame2.resources
+F:\SPKT-HCMUTE\HKI_2019\Lập trình hướng đối tượng\ĐỒ ÁN GAME GHÉP HÌNH\Đồ án OOP\obj\Debug\Đồ_án_OOP.FormTime.resources
+F:\SPKT-HCMUTE\HKI_2019\Lập trình hướng đối tượng\ĐỒ ÁN GAME GHÉP HÌNH\Đồ án OOP\obj\Debug\Đồ_án_OOP.StartGame.resources
+F:\SPKT-HCMUTE\HKI_2019\Lập trình hướng đối tượng\ĐỒ ÁN GAME GHÉP HÌNH\Đồ án OOP\obj\Debug\Đồ_án_OOP.Properties.Resources.resources
+F:\SPKT-HCMUTE\HKI_2019\Lập trình hướng đối tượng\ĐỒ ÁN GAME GHÉP HÌNH\Đồ án OOP\obj\Debug\Đồ án OOP.csproj.GenerateResource.cache
+F:\SPKT-HCMUTE\HKI_2019\Lập trình hướng đối tượng\ĐỒ ÁN GAME GHÉP HÌNH\Đồ án OOP\obj\Debug\Đồ án OOP.csproj.CoreCompileInputs.cache
+F:\SPKT-HCMUTE\HKI_2019\Lập trình hướng đối tượng\ĐỒ ÁN GAME GHÉP HÌNH\Đồ án OOP\obj\Debug\Đồ án OOP.exe
+F:\SPKT-HCMUTE\HKI_2019\Lập trình hướng đối tượng\ĐỒ ÁN GAME GHÉP HÌNH\Đồ án OOP\obj\Debug\Đồ án OOP.pdb

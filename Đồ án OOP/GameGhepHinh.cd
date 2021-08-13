@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Đồ_án_OOP.Common">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Common.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Đồ_án_OOP.fmGame1">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>qYgIAghCiCEEgAADEBiCQAAKIUACAACIEEVDAQBdEIA=</HashCode>
+      <FileName>fmGame1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Đồ_án_OOP.fmGame2">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>rYAAQAADCCAEABDDAACIQAgCAUACAAAoBGAAAQAQCAA=</HashCode>
+      <FileName>fmGame2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Đồ_án_OOP.FormTime" Collapsed="true">
+    <Position X="15.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IYUABAAAESBAEBAIAoSAAAQCCWAEICLCCCGAEgcQCQQ=</HashCode>
+      <FileName>FormTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Đồ_án_OOP.Global">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAAAIAAAQABAAAAIQAAAAACAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Global.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Đồ_án_OOP.LockComputer">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAQAAAAAAAAAAAIAAAAAQAAAABAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>LockComputer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Đồ_án_OOP.playSound">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAwgAAAAAAAAAAIAAAACAAAAA=</HashCode>
+      <FileName>playSound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Đồ_án_OOP.Program" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Đồ_án_OOP.StartGame" Collapsed="true">
+    <Position X="15.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgCAgACAAAACAAAACAiAAcAghAAAAAAQAAAg=</HashCode>
+      <FileName>StartGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Đồ_án_OOP.SumDayOfYear">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>SumDayOfYear.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Đồ_án_OOP.Properties.Resources">
+    <Position X="2" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAQAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Đồ_án_OOP.Properties.Settings" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Đồ_án_OOP.Direction">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>fmGame1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
